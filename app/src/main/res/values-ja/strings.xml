@@ -62,13 +62,24 @@
     <!-- Module Display Names -->
     <string name="module_anti_crystal">アンチクリスタル</string>
     <string name="module_air_jump">エアジャンプ</string>
+    <string name="module_farsight_display_name">遠視</string>
+    <string name="module_damage_text_display_name">ダメージテキスト</string>
     <string name="module_instant_health">即時回復</string>
     <string name="module_high_jump">ハイジャンプ</string>
     <string name="module_anti_afk">アンチAFK</string>
     <string name="module_auto_walk">オートウォーク</string>
+    <string name="module_name_tag_display_name">名札</string>
     <string name="module_motion_fly">モーションフライ</string>
     <string name="module_health_boost">ヘルスブースト</string>
+    <string name="module_anti_blind_display_name">アンチブラインド</string>
+    <string name="module_dsw_display_name">スイッチ</string>
     <string name="module_fatal_poison">致命的な毒</string>
+    <string name="module_togglesound">サウンドの切り替え</string>
+    <string name="module_keystrokes">キーストローク</string>
+    <string name="module_nofire">ノーファイア</string>
+    <string name="module_targethud">ターゲットハッド</string>
+    <string name="module_lock_heed_display_name">ロッキード</string>
+    <string name="module_skin_downloader_display_name">スキンダウンローダー</string>
     <string name="module_slow_falling">スローフォール</string>
     <string name="module_village_hero">村の英雄</string>
     <string name="module_jump_boost">ジャンプブースト</string>

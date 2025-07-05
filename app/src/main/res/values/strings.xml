@@ -69,6 +69,8 @@
     <string name="module_anti_afk">Anti AFK</string>
     <string name="module_auto_walk">Auto Walk</string>
     <string name="module_motion_fly">Motion Fly</string>
+    <string name="module_farsight_display_name">FarSight</string>
+    <string name="module_damage_text_display_name">DamageText</string>
     <string name="module_health_boost">Health Boost</string>
     <string name="module_fatal_poison">Fatal Poison</string>
     <string name="module_slow_falling">Slow Falling</string>
@@ -142,6 +144,7 @@
     <!-- Module Display Name strings -->
     <string name="module_anti_crystal_display_name">AntiCrystal</string>
     <string name="module_weather_controller_display_name">Weather Controller</string>
+    <string name="module_lock_heed_display_name">LockHeed</string>
     <string name="module_killaura_display_name">KillAura</string>
     <string name="module_crash_attack_display_name">Crash Attack</string>
     <string name="module_crasher_display_name">Crasher</string>

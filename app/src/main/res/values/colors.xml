@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="app_icon_background_color">#5865F2</color>
+
+    <!-- Required for theme -->
+    <color name="colorPrimary">#5865F2</color>
+    <color name="colorPrimaryDark">#4044B0</color>
+    <color name="colorAccent">#7289DA</color>
 </resources>

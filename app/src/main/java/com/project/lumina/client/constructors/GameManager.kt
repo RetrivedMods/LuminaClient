@@ -39,16 +39,19 @@ import com.project.lumina.client.game.module.impl.motion.LongJumpElement
 import com.project.lumina.client.game.module.impl.motion.MotionFlyElement
 import com.project.lumina.client.game.module.impl.combat.OpFightBotElement
 import com.project.lumina.client.game.module.api.commands.CmdListener
+import com.project.lumina.client.game.module.impl.combat.LockHeedElement
 import com.project.lumina.client.game.module.impl.misc.KeyStrokes
 import com.project.lumina.client.game.module.impl.misc.TargetHud
 import com.project.lumina.client.game.module.impl.visual.NoFireElement
 import com.project.lumina.client.game.module.impl.misc.ToggleSound
 import com.project.lumina.client.game.module.impl.motion.AntiACFly
+import com.project.lumina.client.game.module.impl.motion.FarSightElement
 import com.project.lumina.client.game.module.impl.world.PhaseElement
 import com.project.lumina.client.game.module.impl.motion.SpeedElement
 import com.project.lumina.client.game.module.impl.motion.SpiderElement
 import com.project.lumina.client.game.module.impl.motion.StepElement
 import com.project.lumina.client.game.module.impl.visual.AntiBlindElement
+import com.project.lumina.client.game.module.impl.visual.DamageTextElement
 import com.project.lumina.client.game.module.impl.visual.FreeCameraElement
 import com.project.lumina.client.game.module.impl.visual.FullBrightElement
 import com.project.lumina.client.game.module.impl.visual.NameTagElement
@@ -83,6 +86,7 @@ object GameManager {
             add(AutoWalkElement())
             add(NoClipElement())
             add(HasteElement())
+            add(FarSightElement())
             add(SpeedElement())
             add(JetPackElement())
             add(HighJumpElement())
@@ -104,6 +108,8 @@ object GameManager {
             add(PhaseElement())
             //add(MaceAuraElement())
             add(TriggerBotElement())
+            add(LockHeedElement())
+            add(DamageTextElement())
             add(CritBotElement())
             add(InfiniteAuraElement())
             add(DamageBoostElement())

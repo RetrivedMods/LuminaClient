@@ -52,6 +52,7 @@
     <string name="tp_aura">传送光环</string>
     <string name="teleport_behind">传送至身后</string>
     <string name="tp_speed">传送速度</string>
+
     <string name="keep_distance">保持距离</string>
     <string name="strafe_angle">扫射角度</string>
     <string name="strafe_speed">扫射速度</string>
@@ -86,6 +87,17 @@
     <string name="module_speed">速度</string>
     <string name="module_jet_pack">喷气背包</string>
     <string name="module_levitation">漂浮</string>
+    <string name="module_anti_blind_display_name">防盲</string>
+    <string name="module_dsw_display_name">转变</string>
+    <string name="module_togglesound">切换声音</string>
+    <string name="module_keystrokes">按键显示</string>
+    <string name="module_nofire">防火</string>
+    <string name="module_targethud">目标信息</string>
+    <string name="module_skin_downloader_display_name">皮肤下载器</string>
+    <string name="module_lock_heed_display_name">洛克希德</string>
+    <string name="module_name_tag_display_name">名牌</string>
+    <string name="module_farsight_display_name">远视</string>
+    <string name="module_damage_text_display_name">伤害文字</string>
     <string name="module_poseidon">水能提升</string>
     <string name="module_regeneration">再生</string>
     <string name="module_bhop">连跳</string>
